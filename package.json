@@ -1,0 +1,17 @@
+{
+  "name": "engloforte.github.io",
+  "version": "1.0.0",
+  "description": "This is starting to work!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cydran": "^0.2.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2"
+  }
+}
